@@ -2,6 +2,7 @@
 <html>
 <head>
      <meta charset="utf-8">
+            <link rel="stylesheet" type="text/css" href="http://localhost/hompage1style.css">
      <style>
       header{
         border-bottom:1px solid skyblue;
@@ -22,6 +23,7 @@
       }
      </style>
 </head>
+<body id="target">
 <body>
     <header>
         <h1><a href="http://localhost/hompage1Kategorie.html">About DH</a></h1>
@@ -33,6 +35,10 @@
         <li><a href="http://localhost/hompage1YT.html">DH youtube channel</a></li>
         </ol>
     </nav>
+    <div id="control">
+   <input type="button" value="white" onclick="document.getElementById('target').className='white'" />
+   <input type="button" value="black" onclick="document.getElementById('target').className='black'"  />
+   </div>
     <article>
      <h2>DH  youtube channel</h2>
      DH의 유투브 채널을 보려면 "https://www.youtube.com/channel/UC0s15MkFqREFlpjyZWLvhCw"로 들어가면 됩니다.
