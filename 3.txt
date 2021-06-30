@@ -1,0 +1,9 @@
+<h2>DH  youtube channel</h2>
+<story2 id="line2">
+DH의 유투브 채널을
+</story2>
+보려면 "https://www.youtube.com/channel/UC0s15MkFqREFlpjyZWLvhCw"로 들어가면 됩니다.
+</article>
+<div5>
+<input type="button" value="중요" onclick="document.getElementById('line2').className='em2'"
+</div5>

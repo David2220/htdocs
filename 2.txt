@@ -1,0 +1,9 @@
+<h2>DH blog</h2>
+<story3 id="line3">
+DH의 블로그를
+</story3>
+보려면 "https://m.blog.naver.com/dase0231"로 들어가면 됩니다.
+</article>
+<div4>
+<input type="button" value="중요" onclick="document.getElementById('line3').className='em3'"
+</div4>

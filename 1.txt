@@ -1,0 +1,10 @@
+<h2>DH란?</h2>
+DH는 이 사이트의
+<story id="line">
+제작자 이름의
+</story>
+알파벳 약자입니다.
+</article>
+<div2>
+<input type="button" value="중요" onclick="document.getElementById('line').className='em'"
+</div2>
