@@ -20,6 +20,10 @@
       nav ol {
         list-style: none;
       }
+      story.em{
+        color: blue;
+        text-decoration: underline;
+      }
      </style>
 </head>
 <body id="target">
@@ -38,7 +42,7 @@
    <input type="button" value="white" onclick="document.getElementById('target').className='white'" />
    <input type="button" value="black" onclick="document.getElementById('target').className='black'"  />
    </div>
-   <article>
+   <article class="em">
      <?php
      if(empty($_GET['id'])==false){
      echo file_get_contents($_GET['id'].".txt");
