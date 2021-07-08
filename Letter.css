@@ -1,0 +1,8 @@
+@charset "EUC-KR";
+a {
+	text-decoration: none;
+	font-size: 20px;
+}
+body#LoginButton {
+	color: green;
+}

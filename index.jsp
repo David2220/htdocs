@@ -3,12 +3,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="'Content-Type" content="text/html"; charset="UTF-8">
+<meta charset="UTF-8">
+ <link rel="stylesheet" href="Letter.css">
 <title>게시판</title>
 </head>
 <body>
-<script>
- location.href = 'login.jsp';
-</script>
+<div>
+<a href = "http://localhost:8080/NoticeJSP/login.jsp">
+LoginPage
+</a>
+</div>
 </body>
 </html>
