@@ -3,8 +3,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
-<title>게시판 Website</title>
+<meta http-equiv="'Content-Type" content="text/html"; charset="UTF-8">
+<title>게시판</title>
 </head>
 <body>
 <script>
