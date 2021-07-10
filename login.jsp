@@ -5,11 +5,14 @@
 <head>
 <meta charset="UTF-8">
  <link rel="stylesheet" href="Letter.css">
-<title>게시판 Website</title>
+<title>JDHmallLogInPage</title>
 </head>
 <body>
-<vav>
+<a href = "http://localhost:8080/NoticeJSP/index.jsp">
+GoMain
+</a>
+<nav>
 <input type="button" value="Log In" onclick="" />
-</vav>
+</nav>
 </body>
 </html>
