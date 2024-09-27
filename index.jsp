@@ -4,11 +4,21 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>게시판 Website</title>
+ <link rel="stylesheet" href="Letter.css">
+<title>Welcome!JDHmall</title>
 </head>
 <body>
-<script>
- location.href = 'login.jsp';
-</script>
+<div>
+<a href = "http://localhost:8080/NoticeJSP/login.jsp">
+LogIn
+</a>
+<h1>
+JDH
+</h1>
+		<ol>New</ol>
+		<ol>Shirt</ol>
+		<ol>Outer</ol>
+		<ol>Sale</ol>
+</div>
 </body>
 </html>

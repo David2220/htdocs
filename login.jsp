@@ -4,9 +4,15 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>게시판 Website</title>
+ <link rel="stylesheet" href="Letter.css">
+<title>JDHmallLogInPage</title>
 </head>
 <body>
-
+<a href = "http://localhost:8080/NoticeJSP/index.jsp">
+GoMain
+</a>
+<nav>
+<input type="button" value="Log In" onclick="" />
+</nav>
 </body>
 </html>
